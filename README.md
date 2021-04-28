@@ -2,7 +2,7 @@
 
 #### Question: 
 
-Is there any relationship between the spread of Coronovirus in a country and how happy the people in that country are?
+Is there any relationship between the spread of Coronovirus in a country and how happy the people livingg in that country are?
 
 #### Datasets: 
 
