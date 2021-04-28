@@ -8,4 +8,4 @@ Is there any relationship between the spread of Coronovirus in a country and how
 
 (1) COVID19 dataset published by John Hopkins University which consist of the data related to cumulative number of confirmed cases, per day, in each Country.
           
-(2) Dataset consist of various life factors, scored by the people living in each country around the globe. 
+(2) Dataset related to world happiness report (an annual publication of the United Nations that contains scores given by people living in different countries about the quality of their life). 
